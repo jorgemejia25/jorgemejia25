@@ -11,7 +11,6 @@
 
 - 📫 How to reach me **jorgemejia@gmail.com**
 
-- ⚡ Fun fact **I'm 17 years old**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
