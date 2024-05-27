@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **NextJS and NestJS**
 
-- 👨‍💻 All of my projects are available at [https://www.jorgemejia.software/](https://www.jorgemejia.software/)
+- 👨‍💻 All of my projects are available at [https://www.jorgemejia.software/](https://www.jorgemejia.vercel.app/)
 
 - 📝 I regularly write articles on [https://twitter.com/jorge___mejia](https://twitter.com/jorge___mejia)
 
