@@ -1,9 +1,7 @@
 <h1 align="center">Hi, I'm Jorge Mejía</h1>
 <h3 align="center">A passionate fullstack developer from Guatemala. I began to code when I was 14, since then, I've been working with multiple people in order to get experience.</h3>
 
-- 🌱 I’m currently learning **NextJS and NestJS**
-
-- 👨‍💻 All of my projects are available at [https://www.jorgemejia.software/](https://www.jorgemejia.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://www.jorgemejia.vercel.app/](https://www.jorgemejia.vercel.app/)
 
 - 📝 I regularly write articles on [https://twitter.com/jorge___mejia](https://twitter.com/jorge___mejia)
 
