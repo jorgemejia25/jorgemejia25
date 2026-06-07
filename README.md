@@ -1,21 +1,81 @@
-<h1 align="center">Hi, I'm Jorge Mejía</h1>
-<h3 align="center">A passionate fullstack developer from Guatemala. I began to code when I was 14, since then, I've been working with multiple people in order to get experience.</h3>
+<div align="center">
 
-- 👨‍💻 All of my projects are available at [https://www.jorgemejia.vercel.app/](https://www.jorgemejia.vercel.app/)
+<!-- Header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:161b22&height=120&section=header&text=Jorge%20Mej%C3%ADa&fontSize=42&fontColor=e6edf3&animation=twinkling" width="100%"/>
 
-- 📝 I regularly write articles on [https://twitter.com/jorge___mejia](https://twitter.com/jorge___mejia)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1200&color=E6EDF3&center=true&vCenter=true&width=600&lines=Fullstack+Engineer;API+%26+Product+Development;Guatemala+City+%C2%B7+Remote)](https://git.io/typing-svg)
 
-- 💬 Ask me about **Angular, React, NodeJS**
+<br/>
 
-- 📫 How to reach me **jorgemejia@gmail.com**
+[![Portfolio](https://img.shields.io/badge/portfolio-jorgemejia.dev-0d1117?style=for-the-badge&logo=vercel&logoColor=white)](https://www.jorgemejia.dev)
+[![Email](https://img.shields.io/badge/email-devjorgemejia@gmail.com-238636?style=for-the-badge&logo=gmail&logoColor=white)](mailto:devjorgemejia@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/linkedin-profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jorgemejia)
 
+</div>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/jorge___mejia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jorge___mejia" height="30" width="40" /></a>
-<a href="https://instagram.com/jorgemejia___" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jorgemejia___" height="30" width="40" /></a>
-<a href="https://discord.gg/#0720" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="#0720" height="30" width="40" /></a>
+<br/>
+
+### § about
+
+> Not a guru. Just an engineer.
+
+Fullstack developer with **3+ years** shipping web products and APIs end-to-end. I care about reliable systems, clear interfaces, and workflows that solve real business problems.
+
+Currently **Fullstack Developer @ [Profitsolv](https://profitsolv.com)** — building production apps with **.NET** and **Next.js**, remotely from Guatemala City.
+
+<br/>
+
+### § stack
+
+```text
+.NET · Next.js · React · NestJS · TypeScript · Angular · Node.js · PostgreSQL · Docker
+```
+
+<br/>
+
+### § selected work
+
+|     | Project | Role | Stack |
+| :-: | :------ | :--- | :---- |
+| 001 | [**Daury**](https://github.com/jorgemejia25/daury-landing) | Tech Lead | `Next.js` `React` |
+| 002 | [**TabGT**](https://github.com/jorgemejia25/TabGT) | Fullstack | `Swift` `macOS` |
+| 003 | [**INSFIRE GT**](https://github.com/jorgemejia25/insfiregt) | Web Dev | `Next.js` `UI` |
+| 004 | [**uContact Summarizer**](https://github.com/jorgemejia25/uContact-Conversation-Summarizer) | Integration | `TypeScript` `API` |
+| 005 | [**Cococys**](https://github.com/jorgemejia25/cococys) | Fullstack | `Next.js` `Ably` |
+
+<sub>More case studies at [jorgemejia.dev](https://www.jorgemejia.dev) — Pollo Brujo, IxchelNet & more.</sub>
+
+<br/>
+
+### § career
+
+```text
+2025 → now   Fullstack Developer · Profitsolv · Knoxville, TN (remote)
+2022 → 2025  Software Engineer · Orade · Guatemala City (remote)
+2020 → 2022  Freelance Web Developer · Independent
+```
+
+<br/>
+
+### § connect
+
+<p align="center">
+  <a href="https://www.jorgemejia.dev">Portfolio</a> ·
+  <a href="mailto:devjorgemejia@gmail.com">Email</a> ·
+  <a href="https://x.com/jorge___mejia">X</a> ·
+  <a href="https://instagram.com/jorgemejia___">Instagram</a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> <a href="https://canvasjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/Hardik0307/Hardik0307/master/assets/canvasjs-charts.svg" alt="canvasjs" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> </p>
+<br/>
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=jorgemejia25&show_icons=true&theme=transparent&hide_border=true&title_color=e6edf3&text_color=8b949e&icon_color=238636&rank_icon=percentile" height="150" alt="GitHub stats"/>
+&nbsp;
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=jorgemejia25&theme=transparent&hide_border=true&stroke=30363d&ring=238636&fire=238636&currStreakLabel=e6edf3&sideLabels=8b949e&dates=484f58" height="150" alt="GitHub streak"/>
+
+<br/><br/>
+
+<sub>Guatemala City · Remote · v2026</sub>
+
+</div>
