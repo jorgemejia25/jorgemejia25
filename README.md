@@ -1,81 +1,85 @@
-<div align="center">
-
-<!-- Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:161b22&height=120&section=header&text=Jorge%20Mej%C3%ADa&fontSize=42&fontColor=e6edf3&animation=twinkling" width="100%"/>
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1200&color=E6EDF3&center=true&vCenter=true&width=600&lines=Fullstack+Engineer;API+%26+Product+Development;Guatemala+City+%C2%B7+Remote)](https://git.io/typing-svg)
-
-<br/>
-
-[![Portfolio](https://img.shields.io/badge/portfolio-jorgemejia.dev-0d1117?style=for-the-badge&logo=vercel&logoColor=white)](https://www.jorgemejia.dev)
-[![Email](https://img.shields.io/badge/email-devjorgemejia@gmail.com-238636?style=for-the-badge&logo=gmail&logoColor=white)](mailto:devjorgemejia@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/linkedin-profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jorgemejia)
-
-</div>
-
-<br/>
-
-### § about
-
-> Not a guru. Just an engineer.
-
-Fullstack developer with **3+ years** shipping web products and APIs end-to-end. I care about reliable systems, clear interfaces, and workflows that solve real business problems.
-
-Currently **Fullstack Developer @ [Profitsolv](https://profitsolv.com)** — building production apps with **.NET** and **Next.js**, remotely from Guatemala City.
-
-<br/>
-
-### § stack
-
-```text
-.NET · Next.js · React · NestJS · TypeScript · Angular · Node.js · PostgreSQL · Docker
-```
-
-<br/>
-
-### § selected work
-
-|     | Project | Role | Stack |
-| :-: | :------ | :--- | :---- |
-| 001 | [**Daury**](https://github.com/jorgemejia25/daury-landing) | Tech Lead | `Next.js` `React` |
-| 002 | [**TabGT**](https://github.com/jorgemejia25/TabGT) | Fullstack | `Swift` `macOS` |
-| 003 | [**INSFIRE GT**](https://github.com/jorgemejia25/insfiregt) | Web Dev | `Next.js` `UI` |
-| 004 | [**uContact Summarizer**](https://github.com/jorgemejia25/uContact-Conversation-Summarizer) | Integration | `TypeScript` `API` |
-| 005 | [**Cococys**](https://github.com/jorgemejia25/cococys) | Fullstack | `Next.js` `Ably` |
-
-<sub>More case studies at [jorgemejia.dev](https://www.jorgemejia.dev) — Pollo Brujo, IxchelNet & more.</sub>
-
-<br/>
-
-### § career
-
-```text
-2025 → now   Fullstack Developer · Profitsolv · Knoxville, TN (remote)
-2022 → 2025  Software Engineer · Orade · Guatemala City (remote)
-2020 → 2022  Freelance Web Developer · Independent
-```
-
-<br/>
-
-### § connect
+<h1 align="center">Jorge Andrés Mejía</h1>
 
 <p align="center">
-  <a href="https://www.jorgemejia.dev">Portfolio</a> ·
-  <a href="mailto:devjorgemejia@gmail.com">Email</a> ·
-  <a href="https://x.com/jorge___mejia">X</a> ·
-  <a href="https://instagram.com/jorgemejia___">Instagram</a>
+  Fullstack Engineer &nbsp;·&nbsp; Guatemala City &nbsp;·&nbsp; Remote
 </p>
 
-<br/>
+<p align="center">
+  <a href="https://www.jorgemejia.dev">
+    <img src="https://img.shields.io/badge/Portfolio-jorgemejia.dev-000000?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio"/>
+  </a>
+  &nbsp;
+  <a href="mailto:devjorgemejia@gmail.com">
+    <img src="https://img.shields.io/badge/Email-devjorgemejia%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  &nbsp;
+  <a href="https://x.com/jorge___mejia">
+    <img src="https://img.shields.io/badge/X-%40jorge___mejia-000000?style=flat-square&logo=x&logoColor=white" alt="X"/>
+  </a>
+  &nbsp;
+  <a href="https://instagram.com/jorgemejia___">
+    <img src="https://img.shields.io/badge/Instagram-%40jorgemejia__-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+</p>
 
-<div align="center">
+---
 
-<img src="https://github-readme-stats.vercel.app/api?username=jorgemejia25&show_icons=true&theme=transparent&hide_border=true&title_color=e6edf3&text_color=8b949e&icon_color=238636&rank_icon=percentile" height="150" alt="GitHub stats"/>
-&nbsp;
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=jorgemejia25&theme=transparent&hide_border=true&stroke=30363d&ring=238636&fire=238636&currStreakLabel=e6edf3&sideLabels=8b949e&dates=484f58" height="150" alt="GitHub streak"/>
+Fullstack developer with 3+ years building web products and APIs end-to-end. I focus on practical systems that stay reliable — from product design to deployment.
 
-<br/><br/>
+Currently **Fullstack Developer at [Profitsolv](https://profitsolv.com)** (Knoxville, TN · Remote), building production applications with **.NET** and **Next.js**.
 
-<sub>Guatemala City · Remote · v2026</sub>
+---
 
-</div>
+**Stack**
+
+<p>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+</p>
+
+---
+
+**Selected Work**
+
+| # | Project | Role | Stack |
+|---|---------|------|-------|
+| 01 | [**Daury**](https://github.com/jorgemejia25/daury-landing) — Cognitive support platform with routines, reminders and caregiver follow-up | Tech Lead | Next.js · React |
+| 02 | [**TabGT**](https://github.com/jorgemejia25/TabGT) — macOS-first terminal workspace for local shells, SSH sessions and automations | Fullstack | Swift · macOS |
+| 03 | [**Cococys**](https://github.com/jorgemejia25/cococys) — Presentation viewer with real-time remote control via Ably | Fullstack | Next.js · Ably |
+| 04 | [**uContact Summarizer**](https://github.com/jorgemejia25/uContact-Conversation-Summarizer) — Automated SMS/WhatsApp conversation summarizer using AI | Integration | TypeScript · OpenAI |
+| 05 | [**INSFIRE GT**](https://github.com/jorgemejia25/insfiregt) — Corporate site for a fire protection engineering firm | Web | Next.js · SEO |
+
+Full case studies at [jorgemejia.dev](https://www.jorgemejia.dev).
+
+---
+
+**Career**
+
+| Period | Role | Company |
+|--------|------|---------|
+| 2025 – Present | Fullstack Developer | Profitsolv · Knoxville, TN (Remote) |
+| 2022 – 2025 | Software Engineer | Orade · Guatemala City (Remote) |
+| 2020 – 2022 | Freelance Web Developer | Independent |
+
+---
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=jorgemejia25&show_icons=true&hide_border=true&theme=default&hide=issues&rank_icon=percentile&include_all_commits=true"
+    height="160"
+    alt="GitHub stats"
+  />
+  &nbsp;&nbsp;
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=jorgemejia25&layout=compact&hide_border=true&theme=default&hide=html,css"
+    height="160"
+    alt="Top languages"
+  />
+</p>
